@@ -1,4 +1,4 @@
 # css-cards-demo
-Short css cards demo for fun from Fireship
+A little fun/practice demo with CSS and cards
 
 https://albertklam.com/css-cards-demo/
